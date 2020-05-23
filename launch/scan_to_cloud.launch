@@ -1,0 +1,3 @@
+<launch>
+  <node name="scan_to_cloud" pkg="scan_to_cloud" type="scan_to_cloud.py" output="screen"> </node>
+</launch>
